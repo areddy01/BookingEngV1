@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+
+
+<style>
+
+
+
+.form{ width:100%; background-color:#1F5771; padding:20px 0px; margin-bottom:30px; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
+.form ul{ margin:0px; padding:0px;  width:100%; margin-bottom:10px;}
+.form ul li{ width:50%; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; line-height:30px; list-style-type:none;  margin-right:30px; float:left;}
+.form .input{ width:100%; background-color:#ffffff;  border:1px solid #CCCCCC; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; border-radius:5px; padding:7px 10px; color:#CCC;}
+.form .label{ width:10%; color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:right;}
+.form_button{ padding:6px 15px; color:#333; text-align:center; font-size:13px; font-family:Arial, Helvetica, sans-serif; border:none; border-radius:5px;
+	
+	background-image:linear-gradient(#FCFCFC, #E8E8E8);
+	background-image:-webkit-linear-gradient(#FCFCFC, #E8E8E8);
+	background-image:-moz-linear-gradient(#FCFCFC, #E8E8E8);
+	background-image:-ms-linear-gradient(#FCFCFC, #E8E8E8);
+	background-image:-o-linear-gradient(#FCFCFC, #E8E8E8); float:left;
+	
+}
+
+
+
+.price_table{ width:100%; margin-bottom:30px;}
+.price_table ul{ margin:0px; padding:0px;}
+.price_table ul li{ list-style-type:none; color:#FFFFFF; font-size:14px; font-family:Arial, Helvetica, sans-serif; float:left; text-align:center;}
+.price_table .row{ width:20%; background-color:#21678B; line-height:60px; min-height:60px; border-right:1px solid #ffffff; border-bottom:1px solid #ffffff; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
+.price_table .row1{ width:20%; color:#000; background-color:#C5C5C5; line-height:60px; min-height:60px; border-right:1px solid #ffffff; border-bottom:1px solid #ffffff; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
+.price_table .row2{ width:20%; background-color:#15A42E; line-height:60px; min-height:60px;border-right:1px solid #ffffff; border-bottom:1px solid #ffffff; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
+.price_table .row3{ width:20%; color:#000; background-color:#E0E0E0;line-height:60px; min-height:60px; border-right:1px solid #ffffff; border-bottom:1px solid #ffffff; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
+
+
+
+
+
+@media screen and (max-width: 800px) and (min-width: 240px){
+
+	.form{ width:100%; padding:20px 10px;}
+}
+@media screen and (max-width: 650px) and (min-width: 240px){
+	
+	
+	.price_table .row{ font-size:12px; padding:5px 0px; line-height:120%;  word-wrap:break-word;}
+	.price_table .row1{ font-size:12px; padding:10px 0px; line-height:120%; word-wrap:break-word;}
+	.price_table .row2{ font-size:12px; padding:20px 0px;line-height:120%; word-wrap:break-word;}
+	.price_table .row3{ font-size:12px; padding:15px 0px; line-height:120%; word-wrap:break-word;}
+}
+
+@media screen and (max-width: 480px) and (min-width: 240px){
+	
+	.form ul li{ width:100%;}
+		
+}
+
+</style>
+
+</head>
+
+<body>
+	
+    <div class="form">
+    	<ul>
+        	<li class="label">Region</li>
+        	<li><select class="input"><option>--Select destination--</option></select></li>
+            <div style="clear:both"></div>
+        </ul>
+    	<ul>
+        	<li class="label">Property</li>
+        	<li><select class="input"><option>--Select Property--</option></select></li>
+            <div style="clear:both"></div>
+        </ul>
+       <ul>
+        	<li class="label">Arrivel</li>
+        	<li><input placeholder="2013-12-17" type="text" class="input" /></li>
+            <div style="clear:both"></div>
+        </ul>
+        <ul>
+        	<li class="label">&nbsp;</li>
+        	<li><input type="button" value="search" class="form_button"/></li>
+            <div style="clear:both"></div>
+        </ul>
+	</div>
+    
+    <div class="price_table">
+    	<ul>
+        	<li class="row">Property</li>
+            <li class="row">Sea template</li>
+            <li class="row">Amphora Resort</li>
+            <li class="row">The Beach Club</li>
+            <li class="row">Sea Temple</li>
+            <div style="clear:both"></div>
+        </ul>
+        <ul>
+        	<li class="row1">FULL RATE</li>
+            <li class="row1">AUD 670</li>
+            <li class="row1">AUD 820</li>
+            <li class="row1">AUD 555</li>
+            <li class="row1">AUD 300</li>
+            <div style="clear:both"></div>
+        </ul>
+        <ul>
+        	<li class="row3">FRI 22 NOV</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <div style="clear:both"></div>
+        </ul>
+        <ul>
+        	<li class="row3">SAT 23 NOV</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <div style="clear:both"></div>
+        </ul>
+        <ul>
+        	<li class="row3">SUN 24 NOV</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <div style="clear:both"></div>
+        </ul>
+        <ul>
+        	<li class="row3">MON 25 NOV</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <div style="clear:both"></div>
+        </ul>
+        <ul>
+        	<li class="row3">TUE 26 NOV</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <div style="clear:both"></div>
+        </ul>
+        <ul>
+        	<li class="row3">WED 27 NOV</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <div style="clear:both"></div>
+        </ul>
+        <ul>
+        	<li class="row3">THU 28 NOV</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <li class="row2">157</li>
+            <div style="clear:both"></div>
+        </ul>
+        
+    </div>
+    
+</body>
+</html>

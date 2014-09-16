@@ -1,0 +1,2 @@
+php_flag output_buffering on
+ php_flag max_input_vars 9000

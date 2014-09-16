@@ -1,0 +1,361 @@
+@charset "utf-8";
+
+*{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+		}
+a{
+	text-decoration:none;
+	
+	}
+
+@font-face {
+    font-family: 'sintonyregular';
+    src: url('../fonts/sintony-regular-webfont.eot');
+    src: url('../fonts/sintony-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/sintony-regular-webfont.woff') format('woff'),
+         url('../fonts/sintony-regular-webfont.ttf') format('truetype'),
+         url('../fonts/sintony-regular-webfont.svg#sintonyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}		
+		
+body {
+	width:1024px;
+	height:650px;
+	margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+	background:#fff;
+ font-family:'sintonyregular', Arial, Helvetica, sans-serif  ;
+}
+
+
+#main{
+	width:1024px;
+	height:650px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:#fff;
+	}
+#main1{
+	width:1024px;
+	height:650px;
+	/*margin:0px 0px 0px 140px;*/
+        margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:#fff;
+	
+	}
+	
+	#main2{
+	width:1024px;
+	height:650px;
+	/*margin:0px 0px 0px 140px;*/
+	padding:0px 0px 0px 0px;
+	background:#fff;
+	margin-top:300px;
+	}
+		
+#logo_main{
+	width:1024px;
+	height:110px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+
+#logo_image{
+	width:330px;
+	height:110px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/images-ewrewrew.png) no-repeat;
+	}
+
+#text_image{
+	width:545px;
+	margin:30px 0px 0px 120px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	height:60px;
+	background:url(../images/text.png) no-repeat;
+	}
+
+#menu_bar{
+	width:1024px;
+	height:40px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/Untitled-1.png) repeat-x;
+	}
+#menu_text{
+	width:500px;
+	height:20px;
+	margin:10px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	/*font-family:Tahoma, Geneva, sans-serif;*/
+	color:#FFF;
+	font-size:14px;
+	}	
+#main_content{
+	width:984px;
+	height:auto;
+	margin:0px 20px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}		
+#buttion_main{
+	width:655px;
+	/*height:50px;
+	margin:0px 0px 0px 330px;*/
+	padding:0px 0px 0px 0px;
+	/*float:left;*/
+	}
+	
+.green_button{
+	width:25px;
+	height:25px;
+	margin:10px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/green-button.png) no-repeat;
+	}		
+	
+.available_text{
+	width:70px;
+	height:25px;
+	margin:12px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	/*font-family:Tahoma, Geneva, sans-serif;*/
+	font-size:14px;
+	color:#9e9fa0;
+	}			
+	
+.yellow_button{
+	width:25px;
+	height:25px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/yellow-button.png) no-repeat;
+	}		
+.makeanenquirry_text{
+	/*width:120px;*/
+	height:25px;
+	margin:12px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	/*font-family:Tahoma, Geneva, sans-serif;*/
+	font-size:14px;
+	color:#9e9fa0;
+	}				
+.white_button{
+	width:25px;
+	height:25px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/white-button.png) no-repeat;
+	}		
+.sold_text{
+	width:60px;
+	height:25px;
+	margin:12px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	/*font-family:Tahoma, Geneva, sans-serif;*/
+	font-size:14px;
+	color:#9e9fa0;
+	}				
+.start_date_text{
+	width:87px;
+	height:25px;
+	margin:10px 20px 0px 5px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	/*font-family:Tahoma, Geneva, sans-serif;*/
+	font-size:14px;
+	color:#9e9fa0;
+	}
+.start_button{
+	width:180px;
+	height:37px;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/START.png) no-repeat;
+	}	
+	
+#nbmber{
+	width:60px;
+	height:60px;
+	margin:0px 0px 0px 5px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}	
+	
+#nbmber_text{
+	width:80px;
+	height:20px;
+	margin:23px 0px 0px 5px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	/*font:Verdana, Geneva, sans-serif;*/
+	color:#FFF;
+	font-weight:600;
+	font-size:10px;
+	}	
+	
+#book_now_buttion{
+	width:100px;
+	height:40px;
+	margin:0px 0px 0px 15px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}	
+	
+#viewroom_text{
+	width:80px;
+	height:10px;
+	/*margin:10px 0px 0px 90px;*/
+        margin:-8px 0px 0px 34px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	/*font:Verdana, Geneva, sans-serif;*/
+	color:#FFF;
+	font-weight:500;
+	font-size:10px;
+	}	
+	
+		
+#viewroom_text ul{
+	list-style:none;
+	}		
+#viewroom_text li{
+	display:block;
+	
+	}	
+#viewroom_text a{
+	text-decoration:none;
+	color:#fff;
+	
+	
+	}				
+	
+#viewroom_text a:hover{
+	text-decoration:none;
+	color:#fff;
+	
+	
+	}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+#booh_buttion_11{
+	width:70px;
+	height:30px;
+	/*margin:5px 0px 0px 65px;*/
+        margin:2px 0px 0px 9px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	-webkit-border-radius:10px;
+	moz border radius:10px;
+	border-radius:10px;
+	-0-border-radius:10px;
+	 
+	}
+	#booh_buttion_11:active {
+   border-color: ButtonShadow ButtonHighlight ButtonHighlight ButtonShadow;
+}	
+#booknow_text{
+	width:60px;
+	height:20px;
+	margin:8px 0px 0px 5px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	/*font:Verdana, Geneva, sans-serif;*/
+	color:#FFF;
+	font-weight:500;
+	font-size:10px;
+	text-align:center;
+		}	
+		
+#booknow_text ul{
+	list-style:none;
+	}		
+#booknow_text li{
+	display:block;
+	
+	}	
+#booknow_text a{
+	text-decoration:none;
+	color:#fff;
+	
+	
+	}				
+	
+#booknow_text a:hover{
+	text-decoration:none;
+	color:#6f3;
+	
+	
+	}				
+	
+	
+	
+	
+	
+	
+			
+		
+	#booknow_text1{
+	/*width:80px;
+	height:20px;
+	margin:8px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font:Verdana, Geneva, sans-serif;
+	color:#FFF;
+	font-weight:500;
+	font-size:12px;*/
+	 text-decoration: none; font: menu;
+   display: inline-block; padding: 2px 8px;
+  color: ButtonText;
+   border-width: 2px;
+   border-color: ButtonHighlight ButtonShadow ButtonShadow ButtonHighlight;
+    float:right;
+	
+	}
+	
+.onmouse{
+	background:#;
+	
+	}	
+.onmouse:hover{
+	background:#edefac;
+	}	
+
+	
+	
+		
+	
+					
+	

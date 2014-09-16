@@ -1,0 +1,754 @@
+#setting_page_buttion{
+	width:748px;
+	height:37px;
+	margin:0px 0px 0px 195px;
+	padding:0px 0px 0px 0px;	
+	background:url(../images/gas.png) no-repeat;
+	}
+#setting_page_buttion ul{
+	list-style:none;
+	line-height:normal;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	}
+#setting_page_buttion li{
+	display:block;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}	
+#setting_page_buttion a {
+	display: block;
+	float: left;
+	width: 103px;
+	height: 42px;
+	padding:0px 0px 0px 0px ;	
+	text-decoration: none;
+	text-align: center;
+	font-size:14px;
+	color:#fff;
+	margin:4px 20px 0px 0px;
+	padding:5px 0px 0px 0px;
+}	
+#setting_page_buttion a:hover{
+	color:#f11764;
+	background:url(../images/bettle-hover.png) no-repeat;
+	}
+#setting_page_buttion .active a{	
+	color:#f11764;
+	margin:5px 0px 0px 0px;
+	background:url(../images/pen.png) no-repeat;
+}		
+#booking_forms_page_buttion{
+	width:450px;
+	height:42px;
+	margin:0px 0px 0px 160px;
+	padding:3px 0px 0px 0px;	
+	background:url(../images/stay-button.png) no-repeat;
+	}
+#booking_forms_page_buttion ul{
+	list-style:none;
+	line-height:normal;
+	margin:3px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	}
+		
+#booking_forms_page_buttion li{
+	display:block;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}	
+#booking_forms_page_buttion a {
+	display: block;
+	float: left;
+	width: 103px;
+	height: 42px;
+	padding:0px 0px 0px 0px ;	
+	text-decoration: none;
+	text-align: center;
+	font-size:14px;
+	color:#fff;
+	margin:4px 0px 0px 0px;
+	padding:5px 0px 0px 0px;
+}	
+#booking_forms_page_buttion a:hover{
+	color:#f11764;
+	background:url(../images/bettle-hover.png) no-repeat;
+	}
+#booking_forms_page_buttion .active a{	
+	color:#f11764;
+	margin:5px 0px 0px 0px;
+	background:url(../images/pen.png) no-repeat;
+	}		
+#booking_form_content{
+	width:725px;
+	height:300px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#d7f2fa;	
+	border:#c6c7c7 double 1px;
+	
+	}
+#booking_form_content_left{
+	width:200px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border:#09F;
+	border-right: #c6c7c7 1px double;
+	}
+#booking_form_content_middle{
+	width:80px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border-right: #c6c7c7 1px double;
+	}
+	
+#booking_form_content_middle_2{
+	width:300px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;	
+	border-right: #c6c7c7 1px double;
+	}
+#booking_form_content_right{
+	width:140px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+		
+#booking_form_content_left_heading_background{
+	width:200px;
+	height:35px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border-bottom: #c6c7c7 1px double;
+	background:#7e9da1;
+	}
+.left_text{
+	height:20px;
+	margin:15px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#464545;
+	font-size:14px;	
+	}
+	
+.name_heading_left{
+	width:80px;
+	height:20px;
+	margin:7px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:sen Verdana, Geneva, sans-serif;
+	color:#fff;
+	font-size:16px;
+	font-weight:200;
+		
+	}
+.mode_heading_middle{
+	width:80px;
+	height:20px;
+	margin:7px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:sen Verdana, Geneva, sans-serif;
+	color:#fff;
+	font-size:16px;
+	font-weight:200;
+}
+.middle_1_text{
+	height:20px;
+	margin:15px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#464545;
+	font-size:14px;
+	}
+	#booking_form_content_middle_2_heading_background{
+	width:300px;
+	height:35px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border-bottom: #c6c7c7 1px double;
+	background:#7e9da1;
+	}
+	.hyperlink_heading_middle_2{
+	width:280px;
+	height:20px;
+	margin:7px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:sen Verdana, Geneva, sans-serif;
+	color:#fff;
+	font-size:16px;
+	font-weight:200;
+}
+.textare_middle_2{
+	width:270px;
+	height:auto;
+	margin:15px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+	#go_to_form_link_page{
+	width:150px;
+	height:30px;
+	margin:0px 0px 0px 200px;
+	padding:10px 0px 0px 0px;
+	float:left;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:16px;
+	color:#00F;
+	text-decoration:none;
+	font-weight:300;
+	}
+	#booking_form_content_right_heading_background{
+	width:142px;
+	height:35px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border-bottom: #c6c7c7 1px double;
+	background:#7e9da1;
+	}
+	.options_heading_right{
+	width:80px;
+	height:20px;
+	margin:7px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:sen Verdana, Geneva, sans-serif;
+	color:#fff;
+	font-size:16px;
+	font-weight:200;
+}
+#options_navigation{
+	width:142px;
+	height:250px;
+	margin:15px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}
+#options_navigation ul {
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+	line-height: normal;
+	}
+#options_navigation ul li {	
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	}	
+#options_navigation a {
+	display: block;
+	float: left;
+	width: 120px;
+	height: 36px;
+	padding:10px 0px 0px 0px;	
+	text-decoration: none;
+	background:url(../images/opt..a) no-repeat;
+	font-size:14px;
+	color:#1044ef;
+	margin:10px 0px 0px 0px;
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif;
+	}		
+#options_navigation a {
+	background:url(../images/opt..a) no-repeat;	
+	color: #fff;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}
+#options_navigation a:hover  {
+	background:url(../images/options..hover.png) no-repeat;color: #f11764;
+	margin:0px 0px 0px 0px;
+	}
+#options_navigation li{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+#options_navigation ul{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}
+#booking_form_content_middle_heading_background{
+	width:80px;
+	height:35px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border-bottom: #c6c7c7 1px double;
+	background:#7e9da1;
+	}	
+#the_boutique{
+	width:900px;
+	height:80px;
+	margin:50px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}
+#the_boutique_heading{
+	width:600px;
+	margin:0px 0px 0px 40px;
+	padding:0px 0px 0px 0px;
+	height:80px;
+	float:left;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:600;
+	font-size:26px;
+	color:#ae9942;	
+	}
+	#gotoform_select_main{
+	width:500px;
+	height:160px;
+	margin:0px 0px 0px 40px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+	#region{
+	width:500px;
+	height:25px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px opx;
+	float:left;
+	}	
+	
+#property_gotoform{
+	width:500px;
+	height:25px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px opx;
+	float:left;
+	}
+		
+#avible{
+	width:500px;
+	height:25px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px opx;
+	float:left;
+	
+	}
+	#numbers{
+	width:500px;
+	height:25px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px opx;
+	float:left;
+	
+	}
+	#aduits{
+	width:500px;
+	height:25px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px opx;
+	float:left;	
+	}
+	#go_to_form_main_content{
+	width:1004px;
+	height:auto;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#FFF;
+	-webkit-border-radius:10px;
+	moz border radius:10px;
+	border-radius:10px;
+	-0-border-radius:10px;
+	}
+						
+#go_to_form_content_header_images{
+	width:1004px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	height:74px;
+	background:url(../images/goto-form.png) no-repeat;
+	
+	}
+	
+#next_14_days{
+	width:150px;
+	height:30px;
+	margin:0px 0px 0px 820px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+	#proties_space{
+	
+	width:400px;
+	height:40px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}		
+	
+	
+#proties_heading_goto{
+	
+	width:200px;
+	height:20px;
+	margin:20px 0px 0px 30px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-size:16px;
+	font-weight:300;
+	
+}
+#gotoform_dates_and_days{
+	width:580px;
+	height:80px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+		}
+	
+	#apprtments{
+	width:400px;
+	height:auto;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	
+}
+#apprtments_numbers_main{
+	width:580px;
+	height:350px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+	
+#apprtments_1{
+	width:400px;
+	height:50px;
+	margin:5px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+}
+#apprtments_1_text{
+	width:200px;
+	height:20px;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	color:#000;
+}
+.apprtments_1_nights{
+	width:130px;
+	height:20px;
+	margin:0px 0px 0px 40px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	color:#000;	
+}
+#next_buttion a{
+	width:65px;
+	height:26px;
+	margin:5px 0px 0px 290px;
+	padding:3px 0px 0px 16px;
+	float:left;
+	list-style:none;
+	display:block;
+	text-align:none;
+	text-decoration:none;
+	font-size:14px;
+}
+#next_buttion a{
+	background:url(../images/next-img-a.png) no-repeat;
+	width:65px;
+	height:26px;
+	margin:0px 0px 0px 290px;
+	padding:3px 0px 0px 16px;
+	list-style:none;
+	color:#fff;
+	
+	}
+	
+	
+	#next_buttion a:hover{
+		
+		background:url(../images/next-img.hover.png) no-repeat;
+		width:65px;
+	height:26px;
+	margin:px 0px 0px 290px;
+	padding:3px 0px 0px 16px;
+	list-style:none;
+	color:#fff;
+	}
+#go_to_form_fotter{
+	width:1004px;
+	height:34px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/gotoform-.fotter.png) no-repeat;
+	}	
+	
+	
+	#header_propertish{
+	width:1024px;
+	height:183px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(file:///C|/Users/Sravan/Desktop/fitow%20site%20pages/login%20.22/images/111111.png) repeat-x;
+}
+#proprotish_logo{
+	width:325px;
+	height:135px;
+	margin:20px 0px 0px 250px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(file:///C|/Users/Sravan/Desktop/fitow%20site%20pages/login%20.22/images/asaSAs%20-%20Copy.png) no-repeat;
+	background:	
+	}	
+#room_detiles_wook_space{
+	width:1024px;
+	height:800px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:#fff;
+	}
+#you_tube_content{
+	width:1024px;
+	height:1330px;
+	margin:50px 0px 20px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	background:	
+	
+}
+#you_tube_top_img{
+	width:1024px;
+	margin:0px 0px 0px 0px;
+	height:58px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/you1.png) no-repeat;
+	}
+
+#you_tube_bottom_img{
+	width:1024px;
+	margin:1px 0px 0px 0px;
+	height:32px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/you-2.png) no-repeat;
+	}
+		
+#you_tube_headind{
+	width:500px;
+	height:30px;
+	margin:0px 0px 0xp 150px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-style:italic;
+	font-weight:600;
+	font-size:24px;
+	
+	}
+	
+#you_tube_img{
+	width:366px;
+	height:180px;
+	margin:20px 0px 0px 30px;
+	padding:0px 0px 0xp 0px;
+	float:left;
+	background:url(../images/inclusons%20images/yoututbe-img.png) no-repeat;
+	
+	}
+#you_tube_text{
+	width:366px;
+	height:180px;
+	margin:20px 0px 0px 200px;
+	padding:0px 0px 0xp 0px;
+	float:left;
+		}		
+			
+#you_tube_headind_text{
+	width:300px;
+	height:30px;
+	margin:0px 0px 0xp 30px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#40403f;
+	font-weight:600;
+	font-size:24px;
+	
+	}
+				
+	
+#you_tube_headind_text_11{
+	width:300px;
+	height:30px;
+	margin:0px 0px 0xp 30px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#40403f;
+	line-height:18px;
+	text-align:justify;
+	font-size:16px;
+	}
+#youtube_images_mani{
+	width:1024px;
+	height:240px;
+	margin:20px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	
+	}
+#you_tube_heading_images{
+	width:900px;
+	height:30px;
+	margin:0px 0px 0xp 50px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#40403f;
+	font-weight:600;
+	font-size:24px;
+	
+	}			
+youtube_img_1{
+	width:225px;
+	height:209px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/room-img-1.png) no-repeat;
+	
+	}		
+	
+						
+		
+#youtube_img_2{
+	width:225px;
+	height:209px;
+	margin:0px 50px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/room-img-2.png) no-repeat;
+	
+	}			
+	
+#youtube_img_3{
+	width:225px;
+	height:209px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/you-tube3img.png) no-repeat;
+	
+	}
+#room_detiles_post_table{
+	width:1024px;
+	height:150px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#09F;
+	
+	}				
+#room_detiles_bigimage{
+	width:980px;
+	height:280px;
+	margin:20px 0px 0px 30px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/big-img.png) no-repeat;
+	}
+			
+#you_tube_table{
+	width:970px;
+	height:130px;
+	margin:30px 0px 0px 30px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#description{
+	width:980px;
+	height:130px;
+	margin:20px 0px 10px 30px;
+	padding:0px 0px 0px 0px;
+	
+	float:left;
+		}		
+	
+	#description_heading{
+	width:900px;
+	height:30px;
+	margin:0px 0px 0xp 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#40403f;
+	font-weight:600;
+	font-size:24px;
+	
+		}
+#description_text{
+	width:800px;
+	height:100px;
+	margin:0px 0px 0xp 100px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	text-align:justify;
+	font-size:16px;
+	color:#666;
+	}			
+	
+#features{
+	width:980px;
+	height:130px;
+	margin:20px 0px 10px 30px;
+	padding:0px 0px 0px 0px;
+	
+	float:left;
+		}		
+	
+	#features_heading{
+	width:900px;
+	height:30px;
+	margin:0px 0px 0xp 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#40403f;
+	font-weight:600;
+	font-size:24px;
+	
+		}	
+		

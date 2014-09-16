@@ -1,0 +1,180 @@
+@charset "utf-8";
+
+*{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+		}
+body {
+	width:1024px;
+	height:650px;
+	margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+	background:#fff;
+}
+
+
+#main{
+	width:1024px;
+	height:650px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:#fff;
+	}
+		
+#logo_main{
+	width:1024px;
+	height:110px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+
+#logo_image{
+	width:330px;
+	height:110px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/images-ewrewrew.png) no-repeat;
+	}
+
+#text_image{
+	width:545px;
+	margin:30px 0px 0px 120px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	height:60px;
+	background:url(../images/text.png) no-repeat;
+	}
+
+#menu_bar{
+	width:1024px;
+	height:40px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/Untitled-1.png) repeat-x;
+	}
+#menu_text{
+	width:500px;
+	height:20px;
+	margin:10px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-size:14px;
+	}
+	
+
+#main_content{
+	width:984px;
+	height:auto;
+	margin:0px 20px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+
+
+#thank_you_main_div{
+	width:984px;
+	height:20px;
+	margin:20px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}
+
+
+#thank_you_heading{
+	width:500px;
+	height:20px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#333;
+	font-size:18px;
+	font-weight:400;
+	
+	}
+
+
+#thank_table_main_div{
+	width:984px;
+	height:50px;
+	margin:20px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+		}
+
+#make_your_text_div{
+	width:984px;
+	height:50px;
+	margin:50px 20px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font:Arial, Helvetica, sans-serif;
+	color:#666;
+	font-size:18px;
+	text-align:justify;
+	line-height:17px;
+	
+		}
+
+#our_detales{
+	width:984px;
+	height:30px;
+	margin:10px 20px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#666;
+	font-size:22px;
+	text-align:justify;
+	line-height:17px;
+	font-weight:600;
+	}
+
+
+#our_detales_table_main_div{
+	width:984px;
+	height:50px;
+	margin:20px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+		}
+
+
+#order_detales_hesding{
+	width:984px;
+	height:30px;
+	margin:60px 20px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#666;
+	font-size:22px;
+	text-align:justify;
+	line-height:17px;
+	font-weight:600;
+	}
+
+
+#product_table{
+	width:984px;
+	height:50px;
+	margin:20px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+
+
+
+
+
+	
+
+	
+						
+	

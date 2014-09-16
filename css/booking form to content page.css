@@ -1,0 +1,174 @@
+
+	
+/*#booking_form_Confirmation_state*/
+
+
+#booking_form_Confirmation{
+	width:730px;
+	height: auto;
+	margin:0px 0px 20px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}
+#booking_content_back{
+	width:730px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/img111111.png) no-repeat;
+	
+		}
+		
+#configuring_confirmation_cmail_heading{
+	width:250px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+	}					
+	
+	
+#booking_content_save_buttion_navigation{
+	width:200px;
+	height:30px;
+	margin:13px 0px 0px 265px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}
+#booking_content_save_buttion_navigation ul {
+	margin:0px 5px 0px 0px;
+	padding:0px 10px 0px 0px;
+	list-style:none;
+	line-height: normal;
+	}
+#booking_content_save_buttion_navigation ul li {	
+	margin:0px 10px 0px 0px;
+	padding:0px 10px 0px 0px;
+	}	
+#booking_content_save_buttion_navigation a {
+	display: block;
+	float: left;
+	width: 80px;
+	height: 30px;
+	padding:0px 0px 0px 0px;	
+	text-decoration: none;
+	background:url(../images/inclusons%20images/booking-form-content-a.png) no-repeat;
+	font-size:14px;
+	color:#1044ef;
+	margin:0px 0px 0px 0px;
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif;
+	background:
+	}
+			
+#booking_content_save_buttion_navigation a {
+	background:url(../images/inclusons%20images/booking-form-content-hover.png) no-repeat;
+	color: #fff;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}
+#booking_content_save_buttion_navigation a:hover  {
+	background:url(../images/inclusons%20images/booking-form-content-a.png) no-repeat;
+	color: #f11764;
+	margin:0px 0px 0px 0px;
+	}
+#booking_content_save_buttion_navigation li{
+	padding:0px 10px 0px 0px;
+	margin:0px 10px 0px 0px;
+	}	
+#booking_content_save_buttion_navigation ul{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+	
+#border_booking{
+	width:710px;
+	height:auto;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border:#cacbcb double 1px;
+	background:#eff1f1;
+	}	
+	
+#booking_content_menu{
+	width:600px;
+	height:50px;
+	margin:5px 0px 0px 55px;
+	padding:0px 0px 0px 0px;
+	float:left;
+
+	
+	}
+#booking_content_menu ul {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+	line-height: normal;
+}
+#booking_content_menu ul li {
+	
+	margin:0px 0px 0px 0px;
+	padding:0px 0px px 0px;
+	}	
+#booking_content_menu a {
+	display: block;
+	float: left;
+	width:120px;
+	height: 34px;
+	padding:2px 0px 0px 0px;
+	
+	text-decoration: none;
+	background: no-repeat;	
+	font-size:14px;
+	color:#1044ef;
+	margin:0px px 0px 0px;
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif;
+		}		
+#booking_content_menu a {
+	background:url(../images/inclusons%20images/12333.png) no-repeat;
+	color: #fff;
+	
+}
+#booking_content_menu a:hover {
+	background:url(../images/inclusons%20images/144.png) no-repeat;
+	color: #f11764;
+	margin:0px px 0px 0px;
+	}
+#booking_content_menu li{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+#booking_content_menu ul{
+	padding:0px px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+#border_booking_body{
+	width:690px;
+	height:300px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border:#cacbcb double 1px;
+	background:#f7f7f5;
+	}
+#border_booking_emtydiv{
+	width:700px;
+	height:30px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+	

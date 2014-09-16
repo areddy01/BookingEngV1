@@ -1,0 +1,2259 @@
+@charset "utf-8";
+
+*{
+	margin:0px auto;
+	padding:0px auto;
+	}
+body {
+	width:1024px;
+	height:0px auto;
+	margin:0px auto;
+	padding:0px auto;
+	background:#FFF;
+}
+#main{
+	width:1024px;
+	height:1200px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:#FFF;
+	
+	}
+	
+#header{
+	width:1024px;
+	height:299px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/header-login.png) repeat-x ;
+	}	
+	
+#logo{
+	width:325px;
+	height:132px;
+	margin:50px 0px 0px 350px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/asaSAs.png);	
+	}	
+
+#username_text{
+	width:400px;
+	height:44px;
+	margin:50px 0px 0px 300px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#333;
+	font-weight:400;
+	}
+#password_text{
+	width:400px;
+	height:44px;
+	margin:30px 0px 0px 300px;
+	padding:0px 5px 0px 5px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#333;
+	font-weight:200;
+	
+	}
+#login_box{
+	width:95px;
+	height:28px;
+	margin:10px 0px 0px 487px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/login.png);
+}
+#Propertish_page_css{
+	width:1024px;
+	height:0px auto;
+    margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	   	
+	}
+#header_propertish{
+	width:1024px;
+	height:183px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(file:///C|/Users/Sravan/Desktop/fitow%20site%20pages/login%20.22/images/111111.png) repeat-x;
+}
+
+#proprotish_logo{
+	width:325px;
+	height:135px;
+	margin:20px 0px 0px 250px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(file:///C|/Users/Sravan/Desktop/fitow%20site%20pages/login%20.22/images/asaSAs%20-%20Copy.png) no-repeat;	
+	}	
+#main_content{
+	width:965px;
+	height: 0px auto;
+	margin:50px 0px 0px 40px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+#navigation{
+	width:180px;
+	height:0px auto;
+	margin:30px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#fff;
+	
+	}
+#navigation ul {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+	line-height: normal;
+}
+#navigation ul li {
+	
+	margin:0px 0px 50px 0px;
+	padding:0px 0px 5px 0px;
+	}	
+#navigation a {
+	display: block;
+	float: left;
+	width: 177px;
+	height: 38px;
+	padding:10px 0px 0px 0px;
+	
+	text-decoration: none;
+	background:url(../images/inclusons%20images/kyy.png) no-repeat;	
+	font-size:14px;
+	color:#1044ef;
+	margin:0px 0px 0px 0px;
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif;
+		}		
+#navigation a {
+	background:url(../images/inclusons%20images/kyy.png) no-repeat;
+	color: #fff;
+	
+}
+#navigation .active a {
+	background:url(../images/inclusons%20images/123.png) no-repeat;
+	color: #f11764;
+	margin:0px 0px 0px 10px;
+	}
+#navigation li{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	
+	
+	}	
+#navigation ul{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	
+	}	
+
+#content{
+	width:735px;
+	margin:3px 0px 0px 8px;
+	padding:0px 0px 0px 0px;
+	height:43px;
+	float:left;
+	border-left:#F7F7F7 double 2px;
+	border-right: #F7F7F7 double 2px;
+	border-top:#F7F7F7 double 2px;
+	-webkit-border-radius:10px;
+	moz border radius:10px;
+	border-radius:10px;
+	-0-border-radius:10px;
+}
+#content_buttion{
+	width:750px;
+	height:60px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}
+#content_buttion ul{
+	list-style:none;
+	line-height:normal;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	
+	}	
+#content_buttion li{
+	display:block;
+	margin:0px 20px 0px 0px;
+	padding:0px 20px 0px 30px;
+	}	
+#content_buttion a {
+	display: block;
+	float: left;
+	width: 85px;
+	height: 40px;
+	padding:0px 30px 0px 0px ;	
+	text-decoration: none;
+	text-align:center;
+	font-size:14px;
+	color: #1777B1;
+	margin:10px 0px 0px 30px;
+	}	
+#content_buttion a:hover{
+	color:#F00;
+    background:url(../images/2833.png) no-repeat;
+	 	}
+#content_buttion active a{
+	color:#F00;
+	margin:0px 0px 0px 0px;
+	background:url(../images/2833.png) no-repeat;
+	} 		
+#reporting_buttion{
+	width:752px;
+	height:37px;
+	margin:0px 0px 0px 195px;
+	padding:0px 0px 0px 0px;
+	background:url(../images/inclusons%20images/dddd.png) no-repeat;
+		}
+#reporting_buttion ul{
+	list-style:none;
+	line-height:normal;
+	margin:0px 50px 0px 30px;
+	padding:0px 0px 0px 0px;
+	background:
+		}	
+#reporting_buttion li{
+	display:block;
+	margin:0px 30px 0px 0px;
+	padding:0px 30px 0px 0px;
+	}	
+#reporting_buttion a {
+	display: block;
+	float: left;
+	width: 103px;
+	height: 42px;
+	padding:0px 0px 0px 0px ;	
+	text-decoration: none;
+	text-align: center;
+	font-size:14px;
+	color:#fff;
+	margin:4px 30px 0px 0px;
+	padding:5px 0px 0px 0px;
+	}		
+#reporting_buttion a:hover{
+	color:#f11764;
+	background:url(../images/bettle-hover.png) no-repeat;
+	}
+#reporting_buttion  .active a{	
+	color:#f11764;
+	margin:5px 0px 0px 0px;
+	background:url(../images/pen.png) no-repeat;
+    }
+/*properties rooms state*/
+#protish_rooms{
+	width:700px;
+	height:30px;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#addnew_property_table{
+	width:700px;
+	height:150px;
+	margin:10px 0px 0px 2px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+.onmouse{
+	background:#;
+	}		
+.onmouse:hover{
+	background:#edefac;
+	}	
+	
+	/*properties rooms css.close*/
+	/*room types state*/
+
+#roomtypes{
+	width:700px;
+	height:30px;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}
+#addnew_roomtype_table{
+	width:700px;
+	height:150px;
+	margin:10px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+.room_type_onmouse{
+	background:#;
+	}	
+	
+.room_type_onmouse:hover{
+	background:#dff9ad;
+	background:
+	}	
+	
+	/* room types css.close*/{
+		}
+#/* property_Pms _state{
+/* property_Pms _state css.close*/{}
+#property_pms_state_content{
+	width:730px;
+	height: auto;
+	margin:0px 0px 0px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}	
+#edit_pms_background{
+	width:730px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/img111111.png) no-repeat;
+		}
+#edit_pms_heading{
+	width:250px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+	}	
+#property_pms_managing{
+	width:710px;
+	height:140px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#faebc4;
+	border:#CCC double 1px ;
+	}
+#property_pms_managing_table{
+	width:690px;
+	height:120px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+}	
+#property_pms_textbox{
+	width:380px;
+	height:auto;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#property_pms_checkbox{
+	width:200px;
+	height:auto;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#property_pms_textarea{
+	width:200px;
+	height:auto;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#property_pms_roomtypemaping_hed{
+	width:710px;
+	height:35px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#faebc4;
+	border:#CCC double 1px ;
+}		
+#roomtypemaping_text{
+	width:200px;
+	height:20px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-weight:600;
+	font-size:14px;	
+	}
+#property_pms_roompolo_hed{
+	width:710px;
+	height:35px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#faebc4;
+	border:#CCC double 1px ;
+	}		
+#roompolo_text{
+	width:200px;
+	height:20px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-weight:600;
+	font-size:14px;	
+	}					
+#property_pms_chennel_hed{
+	width:710px;
+	height:35px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#faebc4;
+	border:#CCC double 1px ;
+	}		
+#chennel_text{
+	width:200px;
+	height:20px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-weight:600;
+	font-size:14px;	
+	}
+#property_pmg_border{
+	width:730px;
+	margin:10px 0px 10px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border:1px #CCC double;
+	}
+#pmg_save_buttion{
+	width:90px;
+	height:30px;
+	margin:0px 0px 0px 510px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}		
+						
+#pmg_cancel_buttion{
+	width:690px;
+	height:30px;
+	margin:0px 0px 0px 37px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+#property_pmg_save_bottom{
+	width:730px;
+	height:30px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/ggggggggg.png) no-repeat;
+	}
+#edit_text_box{
+	width:400px;
+	height: auto;
+	margin:0px 0px 0px 5px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#CCC;
+	font-size:16px;
+	color:#f11764;
+		}	
+#border_textbox{
+	width:725px;
+	height:2px;
+	margin:15px 0px 15px 10px;
+	padding:0px  0px 0px 0px;
+	float:left;
+	background:#39C;
+	}
+			
+#form{
+	width:500px;
+	height: auto;
+	margin:30px 0px 0px 130px;
+	padding:0px 0px 0px 0px;
+	}
+.name{
+	width:100px;
+	height:20px;
+	margin:10px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	}	
+.input_textarea{
+	margin:5px 5px 5px 5px;
+	padding:4px;
+	float:left;
+	background:#FFF;
+	float:left;
+	border:1px solid;
+	-webkit-border-radius:7px;
+	moz border radius:7px;
+	border-radius:7px;
+	-0- border-redius:7px;
+	color:#999;
+}
+#signout_state{
+	width:200px;
+	height:200px;
+	margin:0px 0px 0px 230px;
+	padding:0px 0px 0px 0px;
+	color:#999;
+	float:left;
+} 
+#name{
+	width:100px;
+	height:200px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	float:left;
+	color:#0F0;
+	
+	}
+#select{
+	width:120px;
+	height:120px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:#0FC;
+	}
+/*inclusions_state
+*/	
+	
+#inclusions_background_top{
+	width:738px;
+	height:35px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#inclusions_background_top ul {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+	line-height: normal;
+}
+#inclusions_background_top ul li {
+	
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}	
+#inclusions_background_top a{
+	display: block;
+	float: left;
+	width: 730px;
+	height: 35px;
+	padding:3px 0px 0px 20px;
+	text-decoration: none;
+	background:url(../images/inclusons%20images/fdfdfdfdfdfdf.png) no-repeat;
+	font-size:18px;
+	color:#1044ef;
+	margin:0px 0px 0px 0px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:600;
+	}		
+#inclusions_background_top a {
+	background: url(../images/inclusons%20images/a-727-width.png)no-repeat;
+	color: #fff;
+	}
+#inclusions_background_top a:hover {
+	background:url(../images/inclusons%20images/width-727.png) no-repeat;
+	color: #f11764;
+	margin:0px 0px 0px 0px;
+		}
+#inclusions_background_top li{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+#inclusions_background_top ul{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}		
+#inclusions_state_content{
+	width:730px;
+	height: auto;
+	margin:0px 0px 0px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}	
+#agovev3_background{
+	width:730px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/img111111.png) no-repeat;
+	}	
+		
+#agovev3_heading{
+	width:200px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+	}
+
+#form_inclusions{
+	width:700px;
+	height: autopx;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+.name_inclusions{
+	width:200px;
+	height:30px;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#666;
+		}	
+.name_inclusions_2{
+	width:150px;
+	height:30px;
+	margin:10px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#666;
+		}		
+.input_textarea_inclusions{
+	margin:12px 12px 12px 12px;
+	padding:4px;
+	float:left;
+	background:#FFF;
+	float:left;	
+	border:1px solid;
+	-webkit-border-radius:12px;
+	moz border radius:12px;
+	border-radius:12px;
+	-0- border-redius:12px;
+	}	
+#agovev3_background_33{
+	width:730px;
+	height:30px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/ggggggggg.png) no-repeat;
+	background:
+}
+#147_of_255_characters{
+	width:250px;
+	height:30px;
+	margin:30px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#333;
+	}
+#147_of_255_characters_2{
+	width:250px;
+	height:30px;
+	margin:30px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#333;
+	}
+#147_of_255_characters_5{
+	width:250px;
+	height:30px;
+	margin:30px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#333;
+	}	
+#main_div_textboxs{
+	width:720px;
+	height:0px auto;
+	margin:0px 0px 20px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#save_buttion{
+	display: block;
+	float: left;
+	width:200px;
+	height:60px;
+	padding:0px 0px 0px 0px ;	
+	text-decoration: none;
+	font-size:14px;
+	margin:20px 0px 0px 600px;
+	padding:0px 0px 0px 0px;
+	}
+	/*#save_buttion{
+	display: block;
+	float: left;
+	width:115px;
+	height:50px;
+	padding:13px 30px 0px 0px ;	
+	text-decoration: none;
+	text-align:center;
+	font-size:14px;
+	margin:20px 0px 0px 6px;
+	background:
+	}
+	*/
+/*
+	}
+#save_buttion a {
+background:url(../images/inclusons%20images/gana.png) no-repeat;
+color:#FFF;
+background:
+}
+
+#save_buttion a:hover{	
+background:url(../images/inclusons%20images/hover.png)  no-repeat;
+color:#F00;
+	}*/
+	
+#save_buttion ul{
+	list-style:none;
+	line-height:normal;
+	margin:0px 0px 0px 600px;
+	padding:0px 0px 0px 0px;
+	}	
+#save_buttion li{
+	display:block;
+	margin:0px 0px 0px 0px;
+	padding:0px 20px 0px 0px;
+	text-align:center;
+}
+#inclusions_state_content_2{
+	width:730px;
+	height: auto;
+	margin:20px 0px 0px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}	
+	
+#inclusions_state_content_3{
+	width:730px;
+	height: auto;
+	margin:20px 0px 0px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	
+	}
+#inclusions{
+	width:250px;
+	height:20px;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:24px;
+	color:#fc6638;
+}
+
+#reporting_page_buttion{
+	width:748px;
+	height:37px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:url(../images/gas.png) no-repeat;
+/*	}
+#reporting_page_buttion ul{
+	list-style:none;
+	line-height:normal;
+	margin:0px 50px 0px 30px;
+	padding:0px 0px 0px 0px;
+	}
+	
+.menu li:hover .menu-hover{
+visibility: visible;
+height: 100px;
+opacity: 1;
+width:200px;
+}		
+#reporting_page_buttion li{
+	display:block;
+	margin:0px 30px 0px 0px;
+	padding:0px 30px 0px 0px;
+	}	
+#reporting_page_buttion a {
+	
+	display: block;
+	float: left;
+	width: 103px;
+	height: 42px;
+	padding:0px 0px 0px 0px ;	
+	text-decoration: none;
+	text-align: center;
+	font-size:14px;
+	color:#fff;
+	margin:4px 30px 0px 0px;
+	padding:5px 0px 0px 0px;
+	}				
+.reporting_page_buttion a:hover{
+	color:#f11764;
+	background:url(../images/bettle-hover.png) no-repeat;
+	visibility: visible;
+height: 100px;
+opacity: 1;
+	}
+.menu-hover li{
+height: 100%;
+border-bottom: 1px solid #696969;
+background-color: #2a2a2a;
+border-left: none;
+border-right: none;
+}
+.menu-hover li:hover{
+background-image: -webkit-linear-gradient(#2a2a2a, #434343);
+background-image: -moz-linear-gradient(#2a2a2a, #434343);
+background-image: -o-linear-gradient(#2a2a2a, #434343);
+background-image: linear-gradient(#2a2a2a, #434343);
+box-shadow: none;
+}
+
+.menu-hover a{
+color: red;
+}	
+#reporting_page_buttion .active a{	
+	color:#f11764;
+	margin:5px 0px 0px 0px;
+	background:url(../images/pen.png) no-repeat;
+	} 
+#gdfgdf*/}
+
+#reporting_page_buttion{
+	text-align: center;
+padding-top: 0px;
+}
+#reporting_page_buttion{
+text-align: center;
+
+}
+
+.menu li{
+list-style: none;
+float: left;
+position: relative;
+height: 40px;
+text-align:center;
+}
+
+.menu>li{
+padding:5px 20px 0px 0px;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+color:#FFF;
+list-style:none;
+text-decoration:none; 
+}
+.menu a{
+display: block;
+text-decoration: none;
+color:red;
+
+padding: 0 0px;
+font-family: 'Verdana', arial;
+margin: 0;
+position: relative;
+font-size: 12px;
+line-height:30px;
+}
+.menu li:hover{
+}
+.menu li:hover span:after{
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+transform: rotate(180deg);
+width:100px;
+
+}
+ul.menu-hover{
+visibility: hidden;
+position: absolute;
+}
+
+.menu li:hover .menu-hover{
+visibility: visible;
+height: 100%;
+opacity: 1;
+width: auto;
+}
+
+.menu-hover li{
+height: 100%;
+border-bottom: 1px solid #696969;
+background-color: #2a2a2a;
+border-left: none;
+border-right: none;
+}
+
+#currenty_managing{
+	width:510px;
+	height:65px;
+	margin:20px 0px 0px 470px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/drop-menu-butt.png)no-repeat;
+}
+#text_currenty_managing{
+	width:150px;
+	margin:20px 0px 0px 30px;
+	padding:0px 0px 0px 0px;
+	height:20px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#FFF;
+	}
+#select_box{
+	width:320px;
+	height:30px;
+	margin:15px 0px 0px 5px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+#setting_page_buttion{
+	width:748px;
+	height:37px;
+	margin:0px 0px 0px 195px;
+	padding:0px 0px 0px 0px;	
+	background:url(../images/gas.png) no-repeat;
+	}
+#setting_page_buttion ul{
+	list-style:none;
+	line-height:normal;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	}
+#setting_page_buttion li{
+	display:block;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}	
+#setting_page_buttion a {
+    display: block;
+	float: left;
+	width: 103px;
+	height: 42px;
+	padding:0px 0px 0px 0px ;	
+	text-decoration: none;
+	text-align: center;
+	font-size:14px;
+	color:#fff;
+	margin:4px 20px 0px 0px;
+	padding:5px 0px 0px 0px;
+}	
+    #setting_page_buttion a:hover{
+	color:#f11764;
+	background:url(../images/bettle-hover.png) no-repeat;
+	}
+    #setting_page_buttion .active a{	
+	color:#f11764;
+	margin:5px 0px 0px 0px;
+	background:url(../images/pen.png) no-repeat;
+}		
+#buttion_logout{
+	width:50px;
+	height:20px;
+	margin:0px 0px 0px 200px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#1da9d9;	
+	}
+#buttion_logout a{
+	width:50px;
+	height:20px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#1da9d9;	
+	}	
+#buttion_logout a:hover{
+	width:200px;
+	height:170px;
+	margin:0px 300px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#c1f993;
+	-webkit-border-radius:10px;
+	moz border radius:10px;
+	border-radius:10px;
+	-0-border-radius:10px;
+	color:#03F;
+	border:#ffe75f double 1px;	
+}
+#buttion_logout
+-text a:hover{
+	width:100px;
+	height:20px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+    background:#000;
+	}	
+#buttion_logout ul{
+	list-style:none;
+	line-height:normal;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	}	
+#buttion_logout li{
+	display:block;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+/*{
+	message state
+	
+	}*/
+	
+#messages_background_top{
+	width:738px;
+	height:35px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#messages_background_top ul {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+	line-height: normal;
+}
+#messages_background_top ul li {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}	
+#messages_background_top a{
+	display: block;
+	float: left;
+	width: 730px;
+	height: 35px;
+	padding:3px 0px 0px 20px;
+	
+	text-decoration: none;
+	background:url(../images/inclusons%20images/fdfdfdfdfdfdf.png) no-repeat;
+	
+	font-size:18px;
+	color:#1044ef;
+	margin:0px 0px 0px 0px;
+	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:600;
+	}		
+#messages_background_top a {
+	background:url(../images/inclusons%20images/fdfdfdfdfdfdf.png) no-repeat;
+color: #fff;
+}
+#messages_background_top a:hover {
+	background:url(../images/inclusons%20images/mana-hover.png) no-repeat;
+	color: #f11764;
+    margin:0px 0px 0px 0px;
+		}
+#messages_background_top li{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+#messages_background_top ul{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}		
+#message_state_content{
+	width:730px;
+	height: auto;
+	margin:0px 0px 0px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}
+#filer_background{
+	width:735px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/img111111.png) no-repeat;
+		}
+		
+#filter_heading{
+	width:200px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+	}
+#form_message{
+	width:700px;
+	height: auto;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+#messages_main_div_textboxs{
+	width:720px;
+	height:auto;
+	margin:0px 0px 20px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+}	
+#emty_div {
+	width:700px;
+	height:20px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+.name_text_box_messages{
+	width:100px;
+	height:30px;
+	margin:5px 30px 0px 20px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#666;
+		}
+#messages_bottom_img{
+	width:735px;
+	height:30px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/ggggggggg.png) no-repeat;
+	}
+#message_state_content_2{
+	width:730px;
+	height: auto;
+	margin:20px 0px 0px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}
+#messages_background{
+	width:735px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/img111111.png) no-repeat;
+}
+		
+#messages_heading{
+	width:200px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+}
+#messages_box_1{
+	width:720px;
+	height:60px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#messages_box_text_1{
+	width:400px;
+	height:60px;
+	margin:20px 0px 0px 30px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#666;
+	font-style:normal;
+}			
+#messages_box_2{
+	width:710px;
+	height:60px;
+	margin:0px 0px 20px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border:#999 1px dotted;
+	-webkit-border-radius:10px;
+	moz border radius:10px;
+	border-radius:10px;
+	-0-border-radius:10px;
+	background:#f0f0f0;
+}
+#messages_box_text_2{
+	width:400px;
+	height:60px;
+	margin:20px 0px 0px 30px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#666;
+	font-style:normal;
+	}						
+	/*		
+#user state{
+}*/		
+		
+#user_managa{
+	width:738px;
+	height:35px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#user_managa ul {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+	line-height: normal;
+}
+#user_managa ul li {
+	
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}	
+#user_managa a{
+	display: block;
+	float: left;
+	width: 730px;
+	height: 35px;
+	padding:3px 0px 0px 20px;
+	text-decoration: none;
+	background:url(../images/inclusons%20images/fdfdfdfdfdfdf.png) no-repeat;	font-size:18px;
+	color:#1044ef;
+	margin:0px 0px 0px 0px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:600;
+	}		
+#user_managa a {
+	background:url(../images/inclusons%20images/fdfdfdfdfdfdf.png) no-repeat;	color: #fff;
+}
+#user_managa a:hover {
+	background:url(../images/inclusons%20images/mana-hover.png)      no-repeat;
+	color: #f11764;
+	margin:0px 0px 0px 0px;
+		}
+#user_managa li{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+#user_managa ul{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+	
+#table_user_manage{
+	width:730px;
+	height: auto px;
+	margin:10px 0px 0px 2px;
+	padding:0px 0px 0px 0px;
+	float:left;	
+	}	
+#table_user_manage a{
+	color::#06F;
+	}	
+		
+#table_user_manage a:hover{
+	color:#0C6;
+	}
+/*#add_new_user_state{
+	}	*/
+	
+#add_new_user_heading_back{
+	width:250px;
+	height:30px;
+	margin:5px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#f9ab2f;
+	-webkit-border-radius:10px;
+	moz border radius:10px;
+	border-radius:10px;
+	-0-border-radius:10px;
+	color:#fff;
+	border::#49a7ff double 3px;	
+	}	
+#add_new_user_heading{	
+	width:150px;
+	height:20px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#F63;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	font-weight:600;
+	}
+/*
+#sigout_main_div_{
+	
+	}*/
+#
+sigout_main_div_{
+	width:240px;
+	height:160px;
+	margin:10px 0px 0px 150px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#sigout_logout{
+	width:50px;
+	height:20px;
+	margin:10px 0px 50px 50px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#sigout_logout a{
+	width:50px;
+	height:20px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#1da9d9;	
+}	
+#sigout_logout a:hover{
+	width:230px;
+	height:170px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/rornd-sigout.png) no-repeat;
+	}
+#inclusions_background_top{
+	width:738px;
+	height:35px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#inclusions_background_top ul {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+	line-height: normal;
+}
+#inclusions_background_top ul li {
+	
+	 margin: 0px 0px 0px 0px;
+	 padding:0px 0px 0px 0px;
+	}	
+#inclusions_background_top a{
+	display: block;
+	float: left;
+	width: 730px;
+	height: 35px;
+	padding:3px 0px 0px 20px;
+	text-decoration: none;
+	background:url(../images/inclusons%20images/fdfdfdfdfdfdf.png) no-repeat;
+		
+	font-size:18px;
+	color:#1044ef;
+	margin:0px 0px 0px 0px;	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:600;
+	}		
+#inclusions_background_top a {
+	background: url(../images/inclusons%20images/a-727-width.png)no-repeat;
+	color: #fff;
+	
+}
+
+#/*{
+	inventeruy state
+	
+	}*/
+}
+#invetry_background_top a {
+	background: url(../images/inclusons%20images/a-727-width.png)no-repeat;
+	color: #fff;
+	}
+	
+#invetry_background_top a:hover {
+	background:url(../images/inclusons%20images/width-727.png) no-repeat;
+	color: #f11764;
+	margin:0px 0px 0px 0px;
+		}
+#invetry_background_top li{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+#invetry_background_top ul{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+#inventery_workspace_state_content{
+	width:730px;
+	height: auto;
+	margin:0px 0px 20px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	
+	
+	}	
+#gridie_back{
+	width:730px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/img111111.png) no-repeat;
+	background:
+	
+		}
+#gridie_options_heading{
+	width:200px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+	}							
+
+#invetry_GridOptions_selects{
+	width:720px;
+	height:80px;
+	margin:0px 0px 0px 5px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#chaniles{
+	width:170px;
+	height:40px;
+	margin:30px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+.name_inventery{
+	width:0px;
+	height:px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#F00;
+		}					
+#form{
+	width:220px;
+	height:40px;
+	margin:30px 0px 0px 15px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+.name_inventery{
+	width:0px;
+	height:px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#F00;
+		}		
+#to{
+	width:210px;
+	height:40px;
+	margin:30px 0px 0px 15px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+.name_inventery{
+	width:0px;
+	height:px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#F00;
+		}
+		
+#invetry_GridOptions_checkbox{
+	width:720px;
+	height:50px;
+	margin:0px 0px 0px 5px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#show{
+	width:90px;
+	height:40px;
+	margin:30px 0px 0px 15px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#0FF;
+	}
+.name_inventery{
+	width:0px;
+	height:px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#F00;
+		}
+#availability{
+	width:90px;
+	height:40px;
+	margin:30px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#0FF;
+	}
+.name_inventery{
+	width:0px;
+	height:px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#F00;
+		}
+#rates{
+	width:110px;
+	height:40px;
+	margin:30px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#0FF;
+	}
+.name_inventery{
+	width:0px;
+	height:px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#F00;
+		}	
+	
+.name_inventery{
+	width:0px;
+	height:px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#F00;
+		}															
+	
+#range{
+	width:100px;
+	height:40px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#FFF;
+	
+	}
+.name_inventery{
+	width:0px;
+	height:px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#F00;
+		}	
+				
+.buttion{
+	width:60px;
+	height:30;	
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:12px;
+	moz border radius:12px;
+	border-radius:12px;
+	-0-border-radius:12px;
+	color:#03F;
+	margin:0px 0px 0px 0px;
+	}
+#checkboxs_next_image_inventery{
+	width:730px;
+	height:30px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/ggggggggg.png) no-repeat;
+	background:	}
+/
+*	
+#inventer_tablebox_state{
+	
+	}*/
+#master_gride_changes{
+	width:730px;
+	height:300px;
+	margin:0px 0px 0px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}
+#main_master{
+	width:1000px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}
+#master_gride_ss{
+	width:1000px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+}
+#inventery_state_content{
+	width:730px;
+	height: auto;
+	margin:0px 0px 0px 1px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:# double 1px;
+	}
+	#inventery_agovev3_heading{
+	width:600px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+	}
+#main_savechanges_buttion{
+	width:730px;
+	height:50px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#b4b4b4;
+	float:left;
+	}
+#savechanges_button{
+	width:160px;
+	height:43px;
+	margin:0px 0px 0px 220px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/savechanges-buttion.png) no-repeat;
+	}
+	
+#cancel_button{
+	width:160px;
+	height:43px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/cancel-buttion.png) no-repeat;
+	}		
+#cancel_button{
+	width:160px;
+	height:43px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:url(../images/inclusons%20images/cancel-buttion.png) no-repeat;
+	
+}
+#inventer_agovev3_background_33{
+	width:730px;
+	height:30px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/ggggggggg.png) no-repeat;
+	}					
+#Penthouse{
+	width:150px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+#roms_changes{
+	width:1000px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}		
+master gride state{
+	}	
+#nventery_agovev3_background_2{
+	width:730px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/img111111.png) no-repeat;
+		}	
+		
+#room_rate_packegs{
+	width:210px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+		}	
+	
+#months_years{
+	width:600px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+	
+#master_table{
+	width:1024px;
+	height:270px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#CCC;
+	}
+#tabble_left{
+	width:300px;
+	height:270px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+#tabble_right{
+	width:550px;
+	height:270px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:right;
+	}
+
+	
+#main{
+	width:1024px;
+	height:770px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:#040404;
+	}
+	
+
+	
+
+
+	
+
+
+
+		
+/*stay pafs state*/	
+	
+#booking_forms_page_buttion{
+	width:450px;
+	height:42px;
+	margin:0px 0px 0px 160px;
+	padding:3px 0px 0px 0px;	
+	background:url(../images/inclusons%20images/stay-button.png) no-repeat;
+	}
+#booking_forms_page_buttion ul{
+	list-style:none;
+	line-height:normal;
+	margin:3px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	}
+		
+#booking_forms_page_buttion li{
+	display:block;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}	
+#booking_forms_page_buttion a {
+	display: block;
+	float: left;
+	width: 103px;
+	height: 42px;
+	padding:0px 0px 0px 0px ;	
+	text-decoration: none;
+	text-align: center;
+	font-size:14px;
+	color:#fff;
+	margin:4px 0px 0px 0px;
+	padding:5px 0px 0px 0px;
+}	
+#booking_forms_page_buttion a:hover{
+	color:#f11764;
+	background:url(../images/bettle-hover.png) no-repeat;
+	}
+#booking_forms_page_buttion .active a{	
+	color:#f11764;
+	margin:5px 0px 0px 0px;
+	background:url(../images/pen.png) no-repeat;
+	}		
+
+#images_heading_page{
+	width:200px;
+	height:200px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#333;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-size:24px;
+	text-align:center;	
+	}	
+#add_stay_buuton{
+	width:300px;
+	height:30px;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}							
+#add_stay_table{
+	width:700px;
+	height:205px;
+	margin:10px 0px 0px 15px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#faebc4;
+	
+	}
+/*bookingform_images state*/
+		
+#booking_images_state_content{
+	width:730px;
+	height: auto;
+	margin:0px 0px 0px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}
+#Configuring_All_Images_background{
+	width:730px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/img111111.png) no-repeat;
+			}				
+	
+#Configuring_All_Images_heading{
+	width:200px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+	}
+#all_images_mainborder{
+	width:710px;
+	height:auto;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border: #999 1px double;
+	
+}
+#all_images_roundborder{
+	width:690px;
+	height:200px;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:14px;
+	moz border radius:14px;
+	border-radius:14px;
+	-0-border-radius:14px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}
+#all_images_button{
+	width:130px;
+	height:25px;
+	margin:0px 200px 0px 300px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#565554;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-weight:300;
+	font-size:14px;
+	text-align:center;
+	border:#c79b47 double 1px;
+	direction:none;
+	text-decoration:none;
+	list-style:none;
+	display:block;
+	}
+#image_1{
+	width:200px;
+	height:200px;
+	margin:0px 20px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/images-home-2.png) no-repeat;
+	}		
+			
+#image_2{
+	width:200px;
+	height:200px;
+	margin:0px 20px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/images-home-1.png) no-repeat;
+	
+			}		
+#image_3{
+	width:200px;
+	height:200px;
+	margin:0px 20px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/images-home-3.png) no-repeat;
+	
+		}	
+		
+#all_images_border_retiangle{
+	width:690px;
+	height:220px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border: #999 1px double;
+}
+#emty_div{
+	width:690px;
+	height:15px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}
+#all_images_uppdate{
+	width:130px;
+	height:25px;
+	margin:0px 200px 0px 50px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#6ca0be;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-weight:300;
+	font-size:14px;
+	text-align:center;
+	border:#c79b47 double 1px;
+	}
+#all_images_text{
+	width:400px;
+	height:70px;
+	margin:10px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#018ad9;
+	line-height:16px;
+	font-size:14px;
+	}
+#all_images_selectan_upplede_text{
+	width:400px;
+	height:20px;
+	margin:10px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#999b9c;
+	line-height:16px;
+	font-size:14px;
+	}		
+#all_images_chosefile_button{
+	width:400px;
+	margin:0px 0px 0px 0px;
+	height:40px;
+	padding:0px 0px 0px 0px;
+	float:left;
+		}	
+#all_images_uppdatw_button{
+	width:400px;
+	margin:0px 0px 0px 0px;
+	height:50px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+	
+/*#booking_form_Confirmation_state*/
+
+
+#booking_form_Confirmation{
+	width:730px;
+	height: auto;
+	margin:0px 0px 20px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}
+#booking_content_back{
+	width:730px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/inclusons%20images/img111111.png) no-repeat;
+	background:
+	
+		}
+		
+#configuring_confirmation_cmail_heading{
+	width:250px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+	}					
+	
+	
+#booking_content_save_buttion_navigation{
+	width:200px;
+	height:30px;
+	margin:13px 0px 0px 265px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}
+#booking_content_save_buttion_navigation ul {
+	margin:0px 5px 0px 0px;
+	padding:0px 10px 0px 0px;
+	list-style:none;
+	line-height: normal;
+	}
+#booking_content_save_buttion_navigation ul li {	
+	margin:0px 10px 0px 0px;
+	padding:0px 10px 0px 0px;
+	}	
+#booking_content_save_buttion_navigation a {
+	display: block;
+	float: left;
+	width: 80px;
+	height: 30px;
+	padding:0px 0px 0px 0px;	
+	text-decoration: none;
+	background:url(../images/inclusons%20images/booking-form-content-a.png) no-repeat;
+	font-size:14px;
+	color:#1044ef;
+	margin:0px 0px 0px 0px;
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif;
+	}
+			
+#booking_content_save_buttion_navigation a {
+	background:url(../images/inclusons%20images/booking-form-content-hover.png) no-repeat;
+	color: #fff;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:
+	}
+#booking_content_save_buttion_navigation a:hover  {
+	background:url(../images/inclusons%20images/booking-form-content-a.png) no-repeat;
+	color: #f11764;
+	margin:0px 0px 0px 0px;
+	}
+#booking_content_save_buttion_navigation li{
+	padding:0px 10px 0px 0px;
+	margin:0px 10px 0px 0px;
+	}	
+#booking_content_save_buttion_navigation ul{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+	
+#border_booking{
+	width:710px;
+	height:auto;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border:#cacbcb double 1px;
+	background:#eff1f1;
+	}	
+	
+#booking_content_menu{
+	width:600px;
+	height:50px;
+	margin:5px 0px 0px 55px;
+	padding:0px 0px 0px 0px;
+	float:left;
+
+	
+	}
+#booking_content_menu ul {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+	line-height: normal;
+}
+#booking_content_menu ul li {
+	
+	margin:0px 0px 0px 0px;
+	padding:0px 0px px 0px;
+	}	
+#booking_content_menu a {
+	display: block;
+	float: left;
+	width:120px;
+	height: 34px;
+	padding:2px 0px 0px 0px;
+	text-decoration: none;
+	background: no-repeat;	
+	font-size:14px;
+	color:#1044ef;
+	margin:0px px 0px 0px;
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif;
+		}		
+#booking_content_menu a {
+	background:url(../images/inclusons%20images/12333.png) no-repeat;
+	color: #fff;
+	}
+#booking_content_menu a:hover {
+	background:url(../images/inclusons%20images/144.png) no-repeat;
+	color: #f11764;
+	margin:0px px 0px 0px;
+	}
+#booking_content_menu li{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	}	
+#booking_content_menu ul{
+	padding:0px px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+#border_booking_body{
+	width:690px;
+	height:300px;
+	margin:10px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border:#cacbcb double 1px;
+	background:#676ee1;
+	}
+#border_booking_emtydiv{
+	width:700px;
+	height:15px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+	
+#td_div230_housesection{
+	width:230px;
+	height: auto;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}	
+#td_div230_filteroptions{
+	width:230px;
+	height: auto;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}		
+	/*#room_type_contralpanel_state*/	
+	
+#room_type_contralpanel{
+	width:600px;
+	height:500px;
+	margin:0px 212px 0px 212px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#dddfe0;
+	border:#575757 double 2px;	
+	}
+#gride_table{
+	width:200px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	}
+	
+	
+
+	
+
+
+
+
+	
+			

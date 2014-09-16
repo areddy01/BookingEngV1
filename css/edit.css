@@ -1,0 +1,183 @@
+@charset "utf-8";
+/* CSS Document */
+
+#booking_images_state_content{
+	width:730px;
+	height:800px;
+	margin:0px 0px 0px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}
+#Configuring_All_Images_background{
+	width:730px;
+	height:58px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/img111111.png) no-repeat;
+	background:url(../images/img111111.png)
+			}				
+	
+#Configuring_All_Images_heading{
+	width:200px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;           
+	size:18px;
+	}
+
+#all_images_roundborder_edit_delete{
+	width:690px;
+	height:240px;
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	color:#03F;
+	border:#9fa1a1 double 1px;
+	}
+
+#emty_div_edit_delete{
+	width:500px;
+	height:20px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}	
+	
+#edit_images_edit_delete{
+	width:130px;
+	height:25px;
+	margin:0px 0px 0px 30px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#565554;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-weight:300;
+	font-size:14px;
+	text-align:center;
+	border:#c79b47 double 1px;
+	direction:none;
+	text-decoration:none;
+	list-style:none;
+	display:block;
+	}	
+	
+#edit_image_main_div{
+	width:200px;
+	height:220px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}
+
+#image_edit_delete{
+	width:200px;
+	height:200px;
+	margin:10px 20px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/images-home-2.png) no-repeat;
+	}
+	
+#table_edit_delete{
+	width:400px;
+	height:150px;
+	margin:50px 0px 0px 40px;
+	padding:0px 0px 0px 0px;
+	float:left;
+
+	}		
+
+#123_murphyst_heading{
+	width:250px;
+	height:50px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:40px;
+	color:#36F;
+	font-weight:500;
+	
+	}
+#Dimensions{
+	width:200px;
+	height:20px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+		}
+#select_box_edit{
+	width:400px;
+	height:50px;
+	margin:20px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}
+#add_mapping_images_button{
+	width:130px;
+	height:25px;
+	margin:0px 200px 0px 400px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#565554;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-weight:300;
+	font-size:14px;
+	text-align:center;
+	border:#c79b47 double 1px;
+	direction:none;
+	text-decoration:none;
+	list-style:none;
+	display:block;
+	}			
+			
+
+#delete_mapping_images_button{
+	width:130px;
+	height:25px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:#565554;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-weight:300;
+	font-size:14px;
+	text-align:center;
+	border:#c79b47 double 1px;
+	direction:none;
+	text-decoration:none;
+	list-style:none;
+	display:block;
+	}
+#edit_fotter_bottom_img{
+	width:730px;
+	height:35px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/ggggggggg.png) no-repeat;
+	}				
+#roomselect{
+	width:200px;
+	height:20px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+}
+	
+

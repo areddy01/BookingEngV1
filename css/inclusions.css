@@ -1,0 +1,279 @@
+
+#currenty_managing{
+	width:510px;
+	height:65px;
+	margin:20px 0px 0px 470px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/drop-menu-butt.png)no-repeat;
+	
+}
+#text_currenty_managing{
+	width:150px;
+	margin:20px 0px 0px 30px;
+	padding:0px 0px 0px 0px;
+	height:20px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#FFF;
+	
+	}
+#select_box{
+	width:320px;
+	height:30px;
+	margin:15px 0px 0px 5px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	
+	}
+	
+
+#select_11{
+	  width:310px;
+	 size:70px; 
+	 height:30px; 
+	 font-size:14px; 
+	 color:#FF0080;
+}
+.select_1{
+	  width:310px;
+	 size:70px; 
+	 height:30px; 
+	 font-size:14px; 
+	 color:#FF0080;
+}
+#reporting_buttion{
+	width:748px;
+	height:37px;
+	margin:0px 0px 0px 195px;
+	padding:0px 0px 0px 0px;
+	
+	
+	background:url(../images/gas.png) no-repeat;
+}
+	
+#inclusions{
+    width:250px;
+	eight:20px;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:24px;
+	color:#fc6638;
+	}	
+	
+#inclusions_state_content_333{
+	width:730px;
+	height:0px auto;
+	margin:0px 0px 30px 3px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	-webkit-border-radius:18px;
+	moz border radius:18px;
+	border-radius:18px;
+	-0-border-radius:18px;
+	color:#03F;
+	
+	border:#9fa1a1 double 1px;
+	
+	}	
+#agovev3_background_2_22{
+	width:730px;
+	height:55px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	background:url(../images/img111111.png) no-repeat;
+		}	
+		
+.agovev3_heading{
+	width:200px;
+	height:20px;
+	margin:15px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	size:18px;
+	}
+
+#form_inclusions{
+	width:700px;
+	height:0px auto;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+		}
+.name_inclusions{
+	width:200px;
+	height:30px;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	border: #F00 2px dotted;
+	float:left;
+	color:#666;
+		}	
+.name_inclusions_2{
+	width:150px;
+	height:30px;
+	margin:5px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	border: #F00 2px dotted;
+	color:#666;
+		}		
+.input_textarea_inclusions{
+	margin:7px 7px 7px 7px;
+	padding:4px;
+	float:left;
+	background:#FFF;
+	float:left;
+	
+	border:1px solid;
+	-webkit-border-radius:7px;
+	moz border radius:7px;
+	border-radius:7px;
+	-0- border-redius:7px;
+	
+			
+	}	
+#agovev3_background_33{
+	width:730px;
+	height:30px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/img111111.png) no-repeat;
+
+}
+#147_of_255_characters{
+	width:250px;
+	height:30px;
+	margin:30px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#333;
+	}
+#147_of_255_characters_2{
+	width:250px;
+	height:30px;
+	margin:30px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#333;
+	}
+#147_of_255_characters_5{
+	width:250px;
+	height:30px;
+	margin:30px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	font-size:16px;
+	float:left;
+	color:#333;
+	}	
+#main_div_textboxs{
+	width:720px;
+	height: 0px auto;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	border: #F00 2px dotted;
+}
+#save_buttion{
+	
+	display: block;
+	float: left;
+	width:200px;
+	height:60px;
+	padding:0px 0px 0px 0px ;	
+	text-decoration: none;
+	font-size:14px;
+	margin:0px 0px 0px 620px;
+	padding:0px 0px 0px 0px;
+	}
+#inclusions{
+	width:250px;
+	height:20px;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:24px;
+	color:#fc6638;
+}	
+
+#form_2{
+	width:700px;
+	height: auto;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	
+	}
+#main_div_2{
+	width:720px;
+	height:auto 0px;
+	margin:10px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}	
+	
+.name_iniusoinc_inu{
+	width:200px;
+	height: auto;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#F00;
+	
+	}	
+.textarea_2{
+	margin:3px 0px 0px 0px;
+	padding:4px;
+	float:left;
+	background:#FFF;
+	border:1px double;
+	-webkit-border-radius:8px;
+	moz border radius:8px;
+	border-radius:8px;
+	-0-border-radius:8px;
+	width:300px;
+	height:100px;
+	 
+	
+	}	
+.name_iniusoinc_2_2{
+	width:150px;
+	height:50px;
+	margin:10px 0px 0px 15px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#F00;
+	
+	
+	}	
+	
+
+	
+#inclusion_1{
+	width:730px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	height:30px;	
+	background:url(../images/inclusion_1.png) no-repeat;
+	float:left;
+}
+	

@@ -1,0 +1,54 @@
+body
+        {
+            background: #FFF;
+            font-size: .90em;
+            
+			margin: 10px;
+            padding: 0px;
+        }
+        #toggle
+        {
+            display:inline;
+			width: 700px;
+            display: block;
+        }
+        .heading
+        {
+           
+            height: 25px;
+            padding: 5px 5px;
+			margin-left:100px;
+            color:#FFF;
+			cursor: pointer;
+            position: relative;
+            border-bottom:1px solid #fff;
+				
+        }
+		.heading1
+        {
+            background-color:#AED5DB;
+            height: 25px;
+            padding: 5px 5px;
+            color:#FFF;
+			cursor: pointer;
+            position: relative;
+            border-bottom:1px solid #fff;
+        }
+        
+        .content
+        {
+            margin-left:100px;
+            background-color: #eee;
+            height:auto;
+            padding: 15px;
+        }
+		#msg11{
+			width:600px;
+		}
+		#msg12{
+			width:300px;
+		}
+		#msg13{
+			width:300px;
+		}
+		

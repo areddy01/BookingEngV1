@@ -1,0 +1,138 @@
+@charset "utf-8";
+
+*{
+	margin:0px auto;
+	padding:0px 0px 0px 0px;
+	
+	
+	}
+	
+
+body {
+	width:1024px;
+	height:auto;
+	margin:0px auto;
+	padding:0px 0px 0px 0px;
+	background:#FFF;
+}
+#main{
+	width:1024px;
+	height:auto;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:#FFF;
+	
+	}
+	
+#header{
+	width:1024px;
+	height:299px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/header-login.png) repeat-x ;
+	}	
+	
+	
+#logo{
+	width:325px;
+	height:132px;
+	margin:50px 0px 0px 350px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/asaSAs.png);	
+	}	
+
+#username_text{
+	width:400px;
+	height:44px;
+	margin:50px 0px 0px 300px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#333;
+	font-weight:400;
+	}
+#password_text{
+	width:400px;
+	height:44px;
+	margin:30px 0px 0px 300px;
+	padding:0px 5px 0px 5px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#333;
+	font-weight:200;
+	
+	}
+#login_box{
+	width:95px;
+	height:28px;
+	margin:10px 0px 0px 487px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(../images/login.png);
+}
+#Propertish_page_css{
+	width:1024px;
+	height:0px auto;
+    margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	   	
+	}
+#header_propertish{
+	width:1024px;
+	height:183px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(file:///C|/Users/Sravan/Desktop/fitow%20site%20pages/login%20.22/images/111111.png) repeat-x;
+}
+
+#proprotish_logo{
+	width:325px;
+	height:135px;
+	margin:20px 0px 0px 250px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(file:///C|/Users/Sravan/Desktop/fitow%20site%20pages/login%20.22/images/asaSAs%20-%20Copy.png) no-repeat;	
+	}	
+	
+#border{
+	width:967px;
+	height:1px;
+	margin:70px 0px 0px 27px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	background:url(file:///C|/Users/Sravan/Desktop/fitow%20site%20pages/login%20.22/images/border.png) repeat-x;
+	}	
+	
+#navigation{
+	width:250px;
+	height: auto;
+	margin:10px 0px 0px 25px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	
+	}	
+#navigation ul{
+	list-style:none;
+	padding:0px 0px 0px 0px;
+	
+	}
+#navigation ul li{
+	text-decoration:blink;
+	padding:0px 0px 0px 10px;
+	
+	}	
+	
+	    
+	
+	
+	
+	
+	
+	
+	
+	
